@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">Computer Science Student Web Developer App Developer Data Analytic Database Manager</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-khalil123&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-khalil123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-khalil123&label=Profile%20views&color=0e75b6&style=darkhub" alt="abdullah-khalil123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah-khalil123" alt="abdullah-khalil123" /></a> </p>
 
